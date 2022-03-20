@@ -7,3 +7,25 @@
   justify-content: center;
 }
 
+
+.ant-form-horizontal .ant-form-item-label {
+  margin-right: 10px;
+  width: 100%;
+  min-width: 120px;
+}
+
+.ant-form-item{
+  min-width: 600px;
+}
+
+.ant-form-item-control-input{
+  width: 100%;
+}
+
+.ant-input-number{
+  width: 100%;
+}
+
+.ant-picker{
+  width: 100%;
+}
